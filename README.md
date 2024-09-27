@@ -1,3 +1,5 @@
 # My-Data-Science-Portfolio
 
 Welcome to my portfolio of data science projects, which I have completed for academic, self-learning, and hobby purposes. This repository showcases my skills and knowledge in data analysis, machine learning, and statistical modeling.
+
+[Residual Energy Forecasting](https://github.com/manasisuryavanshi99/Energy-Forecasting): A multivariate time series analysis for predicting residual loads, which is crucial for maintaining a stable energy supply. The complexities arise due to weather-dependent generation, making accurate forecasts essential for proper supply operations.
