@@ -14,3 +14,6 @@ Welcome to my portfolio of data science projects, which I have completed for aca
 **Dataset:** Part of a [Kaggle competition](https://www.kaggle.com/competitions/energy-forecasting-data-challenge) <br>
 **Models explored:** ARIMA, VAR(Vector Autoregression) and Facebook Prophet <br>
 
+**Predictive Modeling**
+
+[Predict CD enrollment for Truist Bank](https://drive.google.com/file/d/1-9GRuvdmXsJkQzOo9zfhsOLVzeKPQw7X/view):A ML model to predict CD (Certificate of Deposit) Enrollments in the Bank Data for a Year. Used Tableau and Python Jupyter Notebook for EDA of the dataset. Conducted Data Imputation and Cleaning for Model feed. Using 5 fold cross validation on Ensemble model, Gradient Boosting gave the highest accuracy of 85%. Presented it as one of the top 3 teams from UNC Charlotte.
